@@ -132,8 +132,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
 
-**Sahil Gupta**
-- LinkedIn: [sahil-gupta-397904273](https://www.linkedin.com/in/sahil-gupta-397904273/)
-- GitHub: [Sahil242a](https://github.com/Sahil242a)
