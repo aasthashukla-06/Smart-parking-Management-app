@@ -42,8 +42,8 @@ Once a slot is booked, users get a confirmation with a scannable QR code, slot d
 ## 🛠️ Tech Stack
 
 - Designed and built with **[Figma Make](https://www.figma.com/)**
-- Frontend: *(update with actual stack, e.g. React + Tailwind CSS)*
-- Backend / Data: *(update with actual stack, e.g. Firebase, Supabase, Node.js + Express)*
+- Frontend:  React + Tailwind CSS
+- Backend / Data: Node.js + Express
 
 ---
 
@@ -54,23 +54,6 @@ Once a slot is booked, users get a confirmation with a scannable QR code, slot d
 - Node.js (v18+ recommended)
 - npm or yarn
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-
-# Navigate into the project
-cd <your-repo>
-
-# Install dependencies
-npm install
-
-# Run the app locally
-npm run dev
-```
-
----
 
 ## 📖 Usage
 
@@ -100,9 +83,6 @@ smartpark/
 ├── README.md
 └── package.json
 ```
-*(Update to match your actual project structure)*
-
----
 
 ## 🗺️ Roadmap
 
